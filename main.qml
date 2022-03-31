@@ -75,7 +75,6 @@ Window {
             GradientStop{position: 1.0; color: "darkred" }
         }
 
-/******************************************/
         anchors.centerIn: parent
         Canvas{
             width: parent.width
